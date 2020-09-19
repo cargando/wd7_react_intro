@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 // import {App, a} from './App';
 // import App from './App';
-import { AppClass as App } from './App';
+import App from './App';
 // import * as myModule from './App';
 
 import * as serviceWorker from './serviceWorker';
